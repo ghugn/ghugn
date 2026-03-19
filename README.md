@@ -31,7 +31,7 @@
 <h3>📊 Activity Overview</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ghugn&show_icons=true&hide_border=true&theme=transparent" alt="Hung Nguyen's GitHub stats" height="150" />
-  <img src="https://github.readme-stats.vercel.app/api/top-langs/?username=ghugn&layout=compact&hide_border=true&theme=transparent" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghugn&layout=compact&hide_border=true&theme=transparent" alt="Top Langs" height="150" />
 </p>
 
 </div>
