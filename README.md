@@ -1,11 +1,10 @@
 <!-- Bắt đầu phần căn giữa toàn bộ trang -->
 <div align="center">
 
-<!-- Tên được cách điệu bằng nét chữ thư pháp tiếng Trung rấtt nghệ -->
+<!-- Tên được cách điệu bằng typography tối giản (Typographic layout) -->
+<h1>「 阮 兴 」</h1>
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=80&pause=1000&color=1A73E8&center=true&vCenter=true&width=400&lines=阮兴" alt="阮兴" />
-</p>
-<p>
+  <b>HUNG NGUYEN</b><br><br>
   <i>Computer Science Student @ HUST | Hanoi, Viet Nam</i>
 </p>
 
@@ -38,7 +37,7 @@
 <p>
   <!-- Mình để height chung để 2 ảnh ngang nhau tuyệt đối -->
   <img src="https://github-readme-stats.vercel.app/api?username=ghugn&show_icons=true&hide_border=true&theme=transparent" alt="Hung Nguyen's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghugn&layout=compact&hide_border=true&theme=transparent" alt="Top Langs" height="150" />
+  <img src="https://github.readme-stats.vercel.app/api/top-langs/?username=ghugn&layout=compact&hide_border=true&theme=transparent" alt="Top Langs" height="150" />
 </p>
 
 </div>
