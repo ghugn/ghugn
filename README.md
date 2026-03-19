@@ -1,7 +1,7 @@
 <!-- Bắt đầu phần căn giữa toàn bộ trang -->
 <div align="center">
 
-<h1>Hung Nguyen</h1>
+<h1>阮兴</h1>
 <p>
   <i>Computer Science Student @ HUST | Hanoi, Viet Nam</i>
 </p>
