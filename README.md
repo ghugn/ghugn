@@ -1,14 +1,11 @@
-<!-- Bắt đầu phần căn giữa toàn bộ trang -->
 <div align="center">
 
-<!-- Tên được cách điệu bằng typography tối giản (Typographic layout) -->
 <h1>「 阮 兴 」</h1>
 <p>
   <b>HUNG NGUYEN</b><br><br>
   <i>Computer Science Student @ HUST | Hanoi, Viet Nam</i>
 </p>
 
-<!-- Social Links thật đơn giản và tinh tế -->
 <p>
   <a href="https://www.facebook.com/nguyen.hung.494960/" target="_blank">Facebook</a> •
   <a href="https://www.instagram.com/6hugn/" target="_blank">Instagram</a> •
@@ -17,7 +14,6 @@
 
 <br />
 
-<!-- Tech Stack -->
 <h3>🛠 Tech Stack</h3>
 <p>
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="44" /></a>
@@ -32,10 +28,8 @@
 
 <br />
 
-<!-- GitHub Activity & Stats -->
 <h3>📊 Activity Overview</h3>
 <p>
-  <!-- Mình để height chung để 2 ảnh ngang nhau tuyệt đối -->
   <img src="https://github-readme-stats.vercel.app/api?username=ghugn&show_icons=true&hide_border=true&theme=transparent" alt="Hung Nguyen's GitHub stats" height="150" />
   <img src="https://github.readme-stats.vercel.app/api/top-langs/?username=ghugn&layout=compact&hide_border=true&theme=transparent" alt="Top Langs" height="150" />
 </p>
