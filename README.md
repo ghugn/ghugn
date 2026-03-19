@@ -1,7 +1,10 @@
 <!-- Bắt đầu phần căn giữa toàn bộ trang -->
 <div align="center">
 
-<h1>阮兴</h1>
+<!-- Tên được cách điệu bằng nét chữ thư pháp tiếng Trung rấtt nghệ -->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=80&pause=1000&color=1A73E8&center=true&vCenter=true&width=400&lines=阮兴" alt="阮兴" />
+</p>
 <p>
   <i>Computer Science Student @ HUST | Hanoi, Viet Nam</i>
 </p>
