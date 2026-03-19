@@ -6,11 +6,6 @@
   <i>Computer Science Student @ HUST | Hanoi, Viet Nam</i>
 </p>
 
-<!-- Lượt xem profile (Profile Views) - Thực dụng và ai cũng thích -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ghugn&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-</p>
-
 <!-- Social Links thật đơn giản và tinh tế -->
 <p>
   <a href="https://www.facebook.com/nguyen.hung.494960/" target="_blank">Facebook</a> •
