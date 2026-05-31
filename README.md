@@ -30,26 +30,14 @@
 
 <h3>📊 Activity Overview</h3>
 
-<h3>📊 Activity Overview</h3>
-
 <div align="center">
-  <img src="https://github-readme-stats-nine-pi-84.vercel.app/api/top-langs/?username=ghugn&amp;layout=compact&amp;theme=transparent" alt="Top Langs" />
+  <img src="https://github-readme-stats-nine-pi-84.vercel.app/api/top-langs/?username=ghugn&layout=compact&theme=transparent&v=3" alt="Top Langs" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-nine-pi-84.vercel.app/api?username=ghugn&amp;show_icons=true&amp;theme=transparent" alt="Hung Nguyen's GitHub stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ghugn&amp;show_icons=true&amp;theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ghugn&amp;show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ghugn&amp;show_icons=true" alt="Hung Nguyen's GitHub stats" />
-  </picture>
+  <img src="https://github-readme-stats-nine-pi-84.vercel.app/api?username=ghugn&show_icons=true&theme=transparent&v=3" alt="Hung Nguyen's GitHub stats" />
 </div>
 
 </div>
