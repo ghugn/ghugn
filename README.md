@@ -29,19 +29,23 @@
 <br />
 
 <h3>📊 Activity Overview</h3>
-<p align="center">
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ghugn&layout=compact&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ghugn&layout=compact" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghugn&layout=compact" alt="Top Langs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ghugn&amp;layout=compact&amp;theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ghugn&amp;layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghugn&amp;layout=compact" alt="Top Langs" />
   </picture>
-</p>
-<p align="center">
+</div>
+
+<br />
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ghugn&show_icons=true&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ghugn&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ghugn&show_icons=true" alt="Hung Nguyen's GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ghugn&amp;show_icons=true&amp;theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ghugn&amp;show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ghugn&amp;show_icons=true" alt="Hung Nguyen's GitHub stats" />
   </picture>
-</p>
+</div>
 
 </div>
