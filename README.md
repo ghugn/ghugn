@@ -37,7 +37,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-nine-pi-84.vercel.app/api?username=ghugn&show_icons=true&theme=transparent&v=3" alt="Hung Nguyen's GitHub stats" />
+  <img src="https://github-readme-stats-nine-pi-84.vercel.app/api?username=ghugn&show_icons=true&theme=transparent&count_private=true&v=4" alt="Hung Nguyen's GitHub stats" />
 </div>
 
 </div>
