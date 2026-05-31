@@ -30,12 +30,16 @@
 
 <h3>📊 Activity Overview</h3>
 
+<h3>📊 Activity Overview</h3>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ghugn&amp;layout=compact&amp;theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ghugn&amp;layout=compact" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghugn&amp;layout=compact" alt="Top Langs" />
-  </picture>
+  <img src="https://github-readme-stats-nine-pi-84.vercel.app/api/top-langs/?username=ghugn&amp;layout=compact&amp;theme=transparent" alt="Top Langs" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats-nine-pi-84.vercel.app/api?username=ghugn&amp;show_icons=true&amp;theme=transparent" alt="Hung Nguyen's GitHub stats" />
 </div>
 
 <br />
