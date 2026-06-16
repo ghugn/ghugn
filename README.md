@@ -28,6 +28,30 @@
 
 <br />
 
+<h3>🎓 Education</h3>
+<p>
+  <b>Đại học Bách khoa Hà Nội (HUST)</b><br />
+  Chuyên ngành: Khoa học Máy tính (Computer Science)<br />
+  Core GPA kỳ 2025.1: <b>4.0 / 4.0</b> 🌟<br />
+  <i>Học bổng Khuyến khích Học tập kỳ 2025.1</i>
+</p>
+<p>
+  <b>THPT Lệ Thủy</b><br />
+  GPA: Lớp 10: 9.5/10 | Lớp 11: 9.6/10 | Lớp 12: 9.6/10
+</p>
+
+<br />
+
+<h3>🏆 Achievements & Certificates</h3>
+<p>
+  🇬🇧 <b>IELTS Certificate:</b> Overall 7.0<br />
+  💡 <b>SCIC 2025:</b> Top 10 Cuộc thi Sáng tạo Sinh viên (Quý 1/2025)<br />
+  🏅 <b>Học bổng Vallet:</b> Học bổng Vallet miền Trung năm 2025<br />
+  🧪 <b>HSG Cấp Tỉnh môn Hóa học:</b> Giải Nhất (Lớp 10, 11) & Giải Nhì (Lớp 12)
+</p>
+
+<br />
+
 <h3>📊 Activity Overview</h3>
 
 <div align="center">
