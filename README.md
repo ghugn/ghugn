@@ -42,9 +42,14 @@
 
 <br />
 
-<h3>🏆 Achievements & Certificates</h3>
-<p>
+<h3> Certificates </h3>
+<p> 
   🇬🇧 <b>IELTS Certificate:</b> Overall 7.0<br />
+</p>
+
+<h3>🏆 Achievements </h3>
+<p>
+  🥈 <b>Hack CX in Banking Together 2026: Giải nhì <br />
   💡 <b>SCIC 2025:</b> Top 10 Cuộc thi Sáng tạo Sinh viên (Quý 1/2025)<br />
   🏅 <b>Học bổng Vallet:</b> Học bổng Vallet miền Trung năm 2025<br />
   🧪 <b>HSG Cấp Tỉnh môn Hóa học:</b> Giải Nhất (Lớp 10, 11) & Giải Nhì (Lớp 12)
