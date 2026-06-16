@@ -29,16 +29,18 @@
 <br />
 
 <h3>🎓 Education</h3>
+
+<b>THPT Lệ Thủy</b><br />
+  GPA: Lớp 10: 9.5/10 | Lớp 11: 9.6/10 | Lớp 12: 9.6/10
+</p>
+
 <p>
   <b>Đại học Bách khoa Hà Nội (HUST)</b><br />
   Chuyên ngành: Khoa học Máy tính (Computer Science)<br />
-  Core GPA kỳ 2025.1: <b>4.0 / 4.0</b> 🌟<br />
+  GPA kỳ 2025.1: <b>4.0 / 4.0</b> <br />
   <i>Học bổng Khuyến khích Học tập kỳ 2025.1</i>
 </p>
 <p>
-  <b>THPT Lệ Thủy</b><br />
-  GPA: Lớp 10: 9.5/10 | Lớp 11: 9.6/10 | Lớp 12: 9.6/10
-</p>
 
 <br />
 
