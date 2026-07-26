@@ -46,7 +46,7 @@
 
 <h3> Certificates </h3>
 <p> 
-  🇬🇧 <b>IELTS Certificate:</b> Overall 7.0<br />
+  🇬🇧 <b>IELTS Certificate:</b> Overall 7.0 (L: 7.5 R: 7.5 W: 6.5 S: 7.0)<br />
 </p>
 
 <h3>🏆 Achievements </h3>
